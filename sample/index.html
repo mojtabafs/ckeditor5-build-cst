@@ -106,7 +106,16 @@
 		<script src="../build/ckeditor.js"></script>
 		<script>ClassicEditor
 				.create( document.querySelector( '.editor' ), {
-					
+					htmlSupport: {
+    allow: [
+        {
+            name: /.*/,
+            attributes: true,
+            classes: true,
+            styles: true
+        }
+    ]
+},
 					licenseKey: '',
 					
 					
@@ -122,7 +131,7 @@
 				.catch( error => {
 					console.error( 'Oops, something went wrong!' );
 					console.error( 'Please, report the following error on https://github.com/ckeditor/ckeditor5/issues with the build id and the error stack trace:' );
-					console.warn( 'Build id: ixzmsiduqibf-9tii1qt9lgg4' );
+					console.warn( 'Build id: caz866dot1cr-ul9nuxv89brk' );
 					console.error( error );
 				} );
 		</script>

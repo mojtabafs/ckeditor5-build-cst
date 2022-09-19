@@ -57,7 +57,7 @@ Follow the guides available on https://ckeditor.com/docs/ckeditor5/latest/framew
 ## FAQ
 | Where is the place to report bugs and feature requests?
 
-You can create an issue on https://github.com/ckeditor/ckeditor5/issues including the build id - `ixzmsiduqibf-9tii1qt9lgg4`. Make sure that the question / problem is unique, please look for a possibly asked questions in the search box. Duplicates will be closed.
+You can create an issue on https://github.com/ckeditor/ckeditor5/issues including the build id - `caz866dot1cr-ul9nuxv89brk`. Make sure that the question / problem is unique, please look for a possibly asked questions in the search box. Duplicates will be closed.
 
 | Where can I learn more about the CKEditor 5 framework?
 
