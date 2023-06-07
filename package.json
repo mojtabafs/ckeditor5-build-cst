@@ -2,7 +2,7 @@
   "name": "cstco-ir-ckeditor5",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build for Cstco projects.",
-  "version": "0.0.4",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "./build/ckeditor.js",
   "devDependencies": {
